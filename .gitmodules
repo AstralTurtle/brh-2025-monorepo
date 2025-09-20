@@ -1,0 +1,6 @@
+[submodule "brh-2025-frontend"]
+	path = brh-2025-frontend
+	url = git@github.com:AstralTurtle/brh-2025-frontend.git
+[submodule "brh-2025-backend"]
+	path = brh-2025-backend
+	url = git@github.com:AstralTurtle/brh-2025-backend.git
